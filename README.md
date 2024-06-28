@@ -9,3 +9,6 @@
 `cd ATSUI`
 
 `gpg -d Run.sh | bash`
+
+
+`Akses Login : sensei1912`
